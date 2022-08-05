@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParisAndre
 - 👀 I’m an IT engineer passionate about developing and creating websites
-- 🌱 I’m currently learning C#, Angular, css
+- 🌱 I’m currently learning C#, Angular, css, Blazor
 - 📫 How to reach me: hello@parisandrea.it
 - 🌐 https://parisandrea.it
 
